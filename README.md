@@ -3,4 +3,4 @@
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 
-## Prueba del primer push a GitHub
+## Cambios nuevos desde GitHub
